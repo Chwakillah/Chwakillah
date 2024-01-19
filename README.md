@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React JS, Tailwind CSS,Laravel**
+- 🌱 I’m currently learning **React JS, Tailwind CSS, Laravel**
 
 - 🤝 I’m looking for help with **learn and discuss more about code.**
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, Java, PHP, Python**
 
 - 📫 How to reach me **syakillahnachwa081@gmail.com**
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/chwakillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chwakillah" height="30" width="40" /></a>
 <a href="https://instagram.com/chwakillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chwakillah" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chwakillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chwakillah" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/syakillahnachwa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chwakillah" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chwakillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chwakillah" height="30" width="40" /></a>
 </p>
 
