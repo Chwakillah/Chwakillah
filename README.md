@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React JS, Tailwind CSS, Laravel**
+- 🌱 I’m currently learning **React JS, Tailwind CSS, Laravel, Figma**
 
 - 🤝 I’m looking for help with **learn and discuss more about code.**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **syakillahnachwa081@gmail.com**
 
-- ⚡ Fun fact **i love to learn Japanese n i loveee cat<3**
+- ⚡ Fun fact **i love to learn Japanese from manga n i loveee cat //meoww<3//**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
