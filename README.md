@@ -1,7 +1,7 @@
 [![MasterHead](https://bebelajarproduktif.files.wordpress.com/2024/01/it-table.jpeg)](https://Chwakillah.io)
 <h1 align="center">Hi 👋, I'm Syakillah!</h1>
 <h3 align="center">A passionate student majoring in Information System who aspiring in Full Stack Developer</h3>
-<img align="right" alt="Coding" src="https://bebelajarproduktif.files.wordpress.com/2024/01/whatsapp-video-2024-01-19-at-13.32.52.gif">
+<img align="right" alt="Coding" width="400px" src="https://bebelajarproduktif.files.wordpress.com/2024/01/whatsapp-video-2024-01-19-at-13.32.52.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chwakillah&label=Profile%20views&color=0e75b6&style=flat" alt="chwakillah" /> </p>
 
