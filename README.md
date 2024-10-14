@@ -31,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chwakillah&show_icons=true&locale=en&layout=compact" alt="chwakillah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chwakillah&show_icons=true&locale=en" alt="chwakillah" /></p>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chwakillah&layout=compact)](https://github.com/anuraghazra/github-readme-stats))
