@@ -26,9 +26,9 @@ if (!defined('ALLOW_ACCESS') || ALLOW_ACCESS !== true) {
         <div class="contact">
             <p>Hubungi kami di:</p>
             <ul>
-                <li><a href="">WhatsApp</a></li>
-                <li><a href="">Instagram</a></li>
-                <li><a href="">Facebook</a></li>
+                <li><a href="">Wa</a></li>
+                <li><a href="">Ig</a></li>
+                <li><a href="">Fb</a></li>
                 <li><a href="">TikTok</a></li>
             </ul>
         </div>
