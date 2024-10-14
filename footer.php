@@ -29,7 +29,7 @@ if (!defined('ALLOW_ACCESS') || ALLOW_ACCESS !== true) {
                 <li><a href="">WhatsApp</a></li>
                 <li><a href="">Instagram</a></li>
                 <li><a href="">Facebook</a></li>
-                <li><a href="">Twitter</a></li>
+                <li><a href="">TikTok</a></li>
             </ul>
         </div>
     </footer>
